@@ -1,0 +1,16 @@
+command:
+  - python
+  - run.py
+env:
+  - name: CATALOG
+    value: workspace
+  - name: SCHEMA
+    value: ai_summit
+  # Leave blank to auto-discover (Serverless Starter Warehouse / Genie space titled GENIE_TITLE),
+  # or paste the ids printed by Module 05.
+  - name: WAREHOUSE_ID
+    value: "d28c84fab35b8fa4"
+  - name: GENIE_SPACE_ID
+    value: "01f1b9b647b5177dbf0bd643c024aa67"
+  - name: GENIE_TITLE
+    value: "AI Summit BCN - LinkedIn"
