@@ -195,6 +195,11 @@ AI Summit Barcelona 2026 (22–23 September, World Trade Center Barcelona) is th
 - Dashboard-ready datasets for AI/BI and Genie
 
 ### **Production Deployment**
+
+<div align="center">
+  <img src="img/deployment_architecture.png" alt="Deployment Architecture" width="85%">
+</div>
+
 - Scheduled pipeline job (every 15 minutes)
 - AI/BI dashboard with real-time sentiment tracking
 - Genie space for conversational analytics
