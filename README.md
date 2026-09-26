@@ -135,6 +135,18 @@
   <img src="img/medallion_architecture.png" alt="Medallion Architecture" width="80%">
 </div>
 
+### 🔄 Pipeline Flow
+
+<div align="center">
+  <img src="img/pipeline_flow.png" alt="Pipeline Flow" width="80%">
+</div>
+
+### 🤖 AI Enrichment
+
+<div align="center">
+  <img src="img/ai_enrichment.png" alt="AI Enrichment" width="80%">
+</div>
+
 ## 📚 Learning Journey
 
 ### **Foundation: Understanding the Business Context**
